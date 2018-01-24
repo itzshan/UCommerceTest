@@ -269,3 +269,7 @@ _Pvt_Extensions
 **/Assets/fonts/
 **/Assets/images/
 **/Assets/js/
+/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7
+/packages/Microsoft.Net.Compilers.2.1.0
+/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7
+/packages
